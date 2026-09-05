@@ -88,9 +88,10 @@ Start → Home → Restaurant → Food Details → Cart → Checkout → Order C
 
 👩‍💻 Author
 
-Name;S.Deebika
+Name:S.Deebika
+
 BCA AI 1ST YEAR 
-UI/UX Design Project – Foodie Food Delivery App
+
 
 🙏 Thank You
 
