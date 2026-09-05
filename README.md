@@ -25,17 +25,29 @@ Order Confirmation
 Track Order option
 
 screenshot:
+
 Welcome Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 1" src="https://github.com/user-attachments/assets/5d3e5f69-43bf-49ac-a65f-dad2c76e3822" />
+
 Home & Restaurant Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 2" src="https://github.com/user-attachments/assets/7f3d21e5-a1bf-42db-afba-10302463dffb" />
+
 Restaurant Details Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 3" src="https://github.com/user-attachments/assets/ca948e7b-2c93-46dd-af4e-c57f785d7b30" />
+
 Cart Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 4" src="https://github.com/user-attachments/assets/6e8b0550-69f1-4333-92c5-6344cef0636e" />
+
 Checkout Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 5" src="https://github.com/user-attachments/assets/41b7f011-8c78-4b8d-8012-46204922b145" />
+
 Order Confirmation Screen
+
 <img width="393" height="852" alt="iPhone 14   15 Pro - 6" src="https://github.com/user-attachments/assets/11710737-c98b-49b7-bed1-a4421c5dea97" />
 
 
